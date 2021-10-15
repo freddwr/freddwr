@@ -43,7 +43,7 @@ const themes = {
     bg_color: "fbf1c7",
   },
   tokyonight: {
-    title_color: "70a5fd",
+    title_color: "00F0E9",
     icon_color: "bf91f3",
     text_color: "38bdae",
     bg_color: "1a1b27",
