@@ -1,4 +1,12 @@
-### Hola, 👋
+### Hola, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+<div>
+  Mi nombre es David Freddy y soy un desarrollador de software. Soy de Bolivia, vivo en La Paz y actualmente trabajo como freenlace. Puedes encontrarme en Facebook o en gmail. Mi pasión radica en soñar ideas y hacerlas realidad con interfaces elegantes. cuido mucho la experiencia, la arquitectura y la calidad del código de las cosas que construyo.
+  
+  <ul>
+<li><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png"><img class="emoji" alt="speech_balloon" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png" width="20" height="20"></g-emoji> pregúntame sobre cualquier cosa, estoy feliz de poder ayudarte;;</li>
+</ul>
+</div>
 
 <div>
   <a href="https://github.com/freddwr/freddwr" />
