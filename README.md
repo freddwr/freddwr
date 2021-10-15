@@ -26,4 +26,3 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=freddwr&layout=compact&theme=tokyonight&show_icons=true&count_private=true" />
 </div>
 
-https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
