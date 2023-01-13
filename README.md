@@ -19,10 +19,10 @@
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/9a8d2acc8ba9120489c93afe79930ca26f28bfbb3d65100d40ec8ae1cd0a929a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436c6f75642d4469676974616c5f4f6365616e2d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d6469676974616c6f6365616e266c6f676f436f6c6f723d776869746526636f6c6f723d326262633861"><img src="https://camo.githubusercontent.com/9a8d2acc8ba9120489c93afe79930ca26f28bfbb3d65100d40ec8ae1cd0a929a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436c6f75642d4469676974616c5f4f6365616e2d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d6469676974616c6f6365616e266c6f676f436f6c6f723d776869746526636f6c6f723d326262633861" alt="" data-canonical-src="https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&amp;logo=digitalocean&amp;logoColor=white&amp;color=2bbc8a" style="max-width: 100%;"></a></p>
 
 <h2><a id="user-content--github-stats" class="anchor" aria-hidden="true" href="#-github-stats"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png"><img class="emoji" alt="chart_with_upwards_trend" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png" width="20" height="20"></g-emoji> GitHub Stats</h2>
-
+<!-- 
 <div>
   <a href="https://github.com/freddwr/freddwr" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=freddwr&show_icons=true&count_private=true&show_icons=true&theme=tokyonight" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=freddwr&layout=compact&theme=tokyonight&show_icons=true&count_private=true" />
 </div>
-
+ -->
